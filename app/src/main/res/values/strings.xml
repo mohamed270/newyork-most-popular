@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">New York</string>
+    <string name="loading_dialog_loading_msg">Loading…</string>
+    <string name="success">successfully loaded</string>
+</resources>
